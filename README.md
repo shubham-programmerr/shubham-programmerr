@@ -22,7 +22,7 @@ I am a **Computer Science & Engineering student at MITE** (6th Sem) with an **8.
 * **Smart India Hackathon 2025 Leader:** Led the development of **FloatChat**, a RAG-based AI tool for oceanographic data analysis using Llama 3.1.
 * **Privacy Researcher:** Currently integrating the **Anon Aadhaar SDK** to build secure, anonymous authentication modules.
 * **Robotics Enthusiast:** Engineered an autonomous obstacle-avoiding robot using Arduino UNO and ultrasonic sensors.
-* **Student Leader:** Serving as a student council member for the **Institution’s Innovation Council**.
+* **Student Leader:** Serving as a council member for the **Institution’s Innovation Council**.
 
 ---
 
