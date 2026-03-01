@@ -61,7 +61,6 @@
 * **Features**: Developed a dynamic game loop with timer-based challenges and score persistence using Shared Preferences.
 
 ---
-
 ### 📊 System Activity
 
 <p align="center">
@@ -69,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&hide_dates=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&hide_dates=true&v=1" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
