@@ -26,10 +26,10 @@
 ---
 
 ### 🛡️ Core Intelligence
-* [cite_start]**Academic Profile**: 6th-semester Computer Science & Engineering student at MITE[cite: 9, 10].
-* [cite_start]**Performance**: Maintaining a strong academic standing with an **8.02 CGPA**[cite: 10].
-* [cite_start]**Specialization**: Bridging **Zero-Knowledge Proofs** and **Machine Learning** to develop verifiable AI agents[cite: 6, 7].
-* [cite_start]**Philosophy**: Dedicated to turning complex ideas into clean, logical, and innovative code[cite: 5, 6].
+* **Academic Profile**: 6th-semester Computer Science & Engineering student at MITE.
+* **Performance**: Maintaining a strong academic standing with an **8.02 CGPA**.
+* **Specialization**: Bridging **Zero-Knowledge Proofs** and **Machine Learning** to develop verifiable AI agents.
+* **Philosophy**: Dedicated to turning complex ideas into clean, logical, and innovative code.
 
 ---
 
@@ -41,11 +41,11 @@
 ---
 
 ### 🛰️ Project Archives
-* [cite_start]**🚀 FloatChat (SIH 2025 Leader)**: Developed an AI chat application for oceanographic data using a **RAG pipeline** (Llama 3.1) and Streamlit[cite: 27, 28, 30].
+* **🚀 FloatChat (SIH 2025 Leader)**: Developed an AI chat application for oceanographic data using a **RAG pipeline** (Llama 3.1) and Streamlit.
 * **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the **Anon Aadhaar SDK**.
-* [cite_start]**🤖 Obstacle-Avoiding Robot**: Engineered an autonomous robot using **Arduino UNO** and ultrasonic sensors[cite: 22, 23].
-* [cite_start]**🧠 Digit Recognition**: Trained a high-accuracy neural network for MNIST classification using **TensorFlow** and **Keras**[cite: 24, 25, 26].
-* [cite_start]**🎮 Jumble Word Game**: Built a **Flutter** puzzle game with timer challenges and local storage[cite: 20, 21].
+* **🤖 Obstacle-Avoiding Robot**: Engineered an autonomous robot using **Arduino UNO** and ultrasonic sensors.
+* **🧠 Digit Recognition**: Trained a high-accuracy neural network for MNIST classification using **TensorFlow** and **Keras**.
+* **🎮 Jumble Word Game**: Built a **Flutter** puzzle game with timer challenges and local storage.
 
 ---
 
@@ -58,10 +58,10 @@
 ---
 
 ### 🏆 Milestones
-* [cite_start]**Council Member**: Active member of the **Institution’s Innovation Council**, co-organizing SIH 2025[cite: 35].
-* [cite_start]**Finalist**: Successfully cleared tech quiz and coding challenges for **Hack & Seek** at MITE[cite: 31].
-* [cite_start]**Basketball**: Won first prize in the **Inter-Department Basketball** tournament[cite: 36].
-* [cite_start]**Certified**: Holds certifications in **SQL** (Geekster), **RPA Developer Foundation** (UiPath), and **C/R/Statistics** (Infosys)[cite: 38, 39, 41].
+* **Council Member**: Active member of the **Institution’s Innovation Council**, co-organizing SIH 2025.
+* **Finalist**: Successfully cleared tech quiz and coding challenges for **Hack & Seek** at MITE.
+* **Basketball**: Won first prize in the **Inter-Department Basketball** tournament.
+* **Certified**: Holds certifications in **SQL** (Geekster), **RPA Developer Foundation** (UiPath), and **C/R/Statistics** (Infosys).
 
 ---
 
