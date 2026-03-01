@@ -41,11 +41,28 @@
 ---
 
 ### 🛰️ Project Archives
-* **🚀 FloatChat (AI-Powered Data Analysis)**: Led the development of an AI chat application for the Smart India Hackathon to analyze oceanographic data using a RAG pipeline (Llama 3.1) and Streamlit.
-* **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the Anon Aadhaar SDK.
-* **🤖 Obstacle-Avoiding Robot**: Constructed and programmed an autonomous robot using an Arduino UNO and ultrasonic sensors.
-* **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for handwritten digit classification (MNIST) using TensorFlow and Keras.
-* **🎮 Jumble Word Game**: Built a Flutter puzzle game with timer-based challenges using Stateful Widgets and Shared Preferences.
+---
+#### 🚀 FloatChat | Lead Developer & Architect
+* **Concept**: An intelligent data interrogation system designed for complex oceanographic datasets.
+* **Architecture**: Built using a **Retrieval-Augmented Generation (RAG)** pipeline leveraging **LangChain** and **Llama 3.1** to provide precise, context-aware answers.
+* **Interface**: Implemented a responsive, user-friendly dashboard using **Streamlit** for real-time data visualization and chat.
+
+#### 🆔 Anon Aadhaar Researcher | Privacy & ZK-Proofs
+* **Focus**: Integrating privacy-preserving authentication into decentralized applications.
+* **Tech Stack**: Leveraging the **Anon Aadhaar SDK** to implement Zero-Knowledge (ZK) circuits for identity verification.
+* **Impact**: Enabling users to prove their identity/citizenship without revealing sensitive personal details, bridging the gap between Web2 identity and Web3 privacy.
+
+#### 🤖 Autonomous Obstacle-Avoiding System | Robotics
+* **Hardware**: Engineered using **Arduino UNO**, HC-SR04 ultrasonic sensors, and an L298N motor driver.
+* **Logic**: Developed a real-time spatial awareness algorithm that calculates distances to objects and executes navigation maneuvers to prevent collisions.
+
+#### 🧠 Neural Digit Classifier | Machine Learning
+* **Model**: Designed a Convolutional Neural Network (CNN) architecture optimized for the **MNIST** dataset.
+* **Performance**: Utilized **TensorFlow** and **Keras** to achieve high-accuracy recognition of handwritten digits through optimized training epochs and dropout layers.
+
+#### 🎮 Jumble Word Engine | Mobile Development
+* **Framework**: Built with **Flutter** for a seamless cross-platform experience.
+* **Features**: Developed a dynamic game loop with timer-based challenges, score persistence using **Shared Preferences**, and a state-managed UI.
 
 ---
 
