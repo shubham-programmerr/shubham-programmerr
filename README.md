@@ -85,8 +85,8 @@
 
 ### 🤝 Node Connectivity
 <p align="center">
-<a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/shubham-dadhich-519401311"><img src="https://img.shields.io/badge/Network_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shubham-dadhich-519401311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
