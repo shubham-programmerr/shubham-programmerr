@@ -62,11 +62,6 @@
 
 ---
 
----
-
----
-
----
 
 ### 📊 System Activity
 
@@ -75,11 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="480" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 ---
