@@ -1,36 +1,36 @@
-# 🚀 Shubham Dadhich
+# 🚀 Mission Control: Shubham Dadhich
 ### 🛡️ Privacy Researcher | 🧠 AI Engineer | ⛓️ Blockchain Builder
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  <img src="https://img.shields.io/badge/Building-ZK--ML-blueviolet?style=flat&logo=target" alt="Current Goal" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5EADFF&width=435&lines=Building+at+the+intersection+of+ZK-ML;Creating+Verifiable+AI+Agents;Developing+Anon+Aadhaar+Modules;6th+Sem+CS+Student+at+MITE" alt="Typing SVG" /></a>
 </p>
 
-> **"From coder to programmer, and programmer to developer."**
-> I am a 6th-sem CS student building verifiable AI agents and secure authentication systems.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Building-green?style=flat-square" alt="Status" />
+</p>
 
 ---
 
-### 🛠️ The Tech Forge
-
-**Core Stack**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23E02200.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-**Privacy & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Ethereum](https://img.shields.io/badge/ZK--Proofs-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+### 🛠️ The Tech Forge (Animated Stack)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,rust,solidity,ts,dart,tensorflow,pytorch,firebase,flutter,gcp,docker" />
+  </a>
+</p>
 
 ---
 
 ### 🏆 Milestone Highlights
 
-* **🛰️ SIH 2025 Leader:** Developed **FloatChat**, a RAG-based AI for oceanographic analysis using Llama 3.1.
-* **🆔 Anon Aadhaar:** Architecting secure, anonymous auth modules using ZK-Proofs.
-* **🤖 Robotics:** Engineered an autonomous obstacle-avoiding robot using Arduino.
+* **🛰️ SIH 2025 Leader:** Led **FloatChat**, a RAG-based AI tool for oceanographic analysis using Llama 3.1.
+* **🆔 Privacy Researcher:** Integrating **Anon Aadhaar SDK** for secure, anonymous authentication.
+* **🤖 Robotics:** Engineered an autonomous obstacle-avoiding robot using Arduino UNO.
 * **🏀 Athlete:** Inter-Department Basketball Winner.
 
 ---
 
-### 📊 Mission Control (GitHub Stats)
+### 📊 System Diagnostics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
@@ -43,8 +43,15 @@
 
 ---
 
-### 🤝 Let's Collaborate!
+### 🎯 2027 Research Goal: "ZK-ML"
+I am currently bridging **Zero-Knowledge Proofs** with **Machine Learning** to develop **verifiable AI agents** that process sensitive data without compromising privacy.
+
+---
+
+### 🤝 Connect with the Lab
 <p align="left">
 <a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/shubham-dadhich-519401311"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
