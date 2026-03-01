@@ -46,11 +46,14 @@
 ---
 
 ### 📊 System Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="49%" align="left" alt="Activity Graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true" width="49%" align="right" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </p>
-<br clear="both"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
