@@ -1,6 +1,6 @@
 # <p align="center">⚡ Shubham Dadhich: System Architect ⚡</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=200&section=header&text=AI%20&%20ZK-Researcher&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=200&section=header&text=DEVELOPER STAGE %20&%20ZK-Researcher&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
