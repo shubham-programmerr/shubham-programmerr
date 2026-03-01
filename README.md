@@ -40,20 +40,17 @@
 * **🚀 FloatChat (AI-Powered Data Analysis)**: Led the development of an AI chat application for the Smart India Hackathon to analyze oceanographic data using a RAG pipeline (Llama 3.1) and Streamlit.
 * **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the Anon Aadhaar SDK.
 * **🤖 Obstacle-Avoiding Robot**: Constructed and programmed an autonomous robot using an Arduino UNO and ultrasonic sensors.
-* **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for handwritten digit classification (MNIST) using TensorFlow and Keras.
+* **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for MNIST classification using TensorFlow and Keras.
 * **🎮 Jumble Word Game**: Built a Flutter puzzle game with timer-based challenges using Stateful Widgets and Shared Preferences.
 
 ---
 
 ### 📊 System Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="49%" align="left" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true" width="49%" align="right" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+<br clear="both"/>
 
 ---
 
