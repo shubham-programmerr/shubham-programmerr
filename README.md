@@ -35,7 +35,7 @@
 
 ### 🛠️ Integrated Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,solidity,cpp,tensorflow,pytorch,ts,flutter,gcp,docker,firebase,arduino,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,rust,solidity,cpp,tensorflow,pytorch,ts,flutter,gcp,docker,firebase,arduino,mysql,r&theme=dark" />
 </p>
 
 ---
@@ -53,10 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="97%" />
 </p>
 
 ---
