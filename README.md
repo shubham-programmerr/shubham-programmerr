@@ -41,11 +41,11 @@
 ---
 
 ### 🛰️ Project Archives
-* **🚀 FloatChat (AI-Powered Data Analysis)**: Led the team in developing an AI chat application for the Smart India Hackathon to analyze oceanographic data using a RAG pipeline (LangChain, Llama 3.1) and a Streamlit frontend.
+* **🚀 FloatChat (AI-Powered Data Analysis)**: Led the development of an AI chat application for the Smart India Hackathon to analyze oceanographic data using a RAG pipeline (LangChain, Llama 3.1) and a Streamlit frontend.
 * **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the Anon Aadhaar SDK.
 * **🤖 Obstacle-Avoiding Robot**: Constructed and programmed an autonomous robot using an Arduino UNO, ultrasonic sensors, and an L298N motor driver.
 * **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for handwritten digit classification (MNIST) using Python, TensorFlow, and Keras.
-* **🎮 Jumble Word Game**: Built a Flutter puzzle game with timer-based challenges and user settings using Stateful Widgets and Shared Preferences.
+* **🎮 Jumble Word Game**: Built a Flutter puzzle game with timer-based challenges using Stateful Widgets and Shared Preferences.
 
 ---
 
@@ -72,4 +72,10 @@
 
 ### 🤝 Node Connectivity
 <p align="center">
-<a href="mailto:dadhichshubham32@gmail.com"><img src="
+<a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/shubham-dadhich-519401311"><img src="https://img.shields.io/badge/Network_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=5EADFF&height=30&section=footer" />
+</p>
