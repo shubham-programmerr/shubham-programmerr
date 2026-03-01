@@ -10,7 +10,7 @@
 ---
 
 ### 🛡️ Professional Summary
-Creative and hardworking **Computer Science & Engineering student at MITE** (CGPA: 8.02)[cite: 9, 10]. [cite_start]Passionate about turning complex ideas into clean, logical code[cite: 5, 6]. Currently bridging **Zero-Knowledge Proofs** with **Machine Learning** to develop verifiable AI agents.
+Creative and hardworking **Computer Science & Engineering student at MITE** (CGPA: 8.02). Passionate about turning complex ideas into clean, logical code. Currently bridging **Zero-Knowledge Proofs** with **Machine Learning** to develop verifiable AI agents.
 
 ---
 
@@ -22,11 +22,11 @@ Creative and hardworking **Computer Science & Engineering student at MITE** (CGP
 ---
 
 ### 🛰️ Mission Archive (Key Projects)
-* [cite_start]**🚀 FloatChat (SIH 2025 Leader):** AI chat app for oceanographic data using a **RAG pipeline** (Llama 3.1)[cite: 27, 28, 30].
+* **🚀 FloatChat (SIH 2025 Leader):** AI chat app for oceanographic data using a **RAG pipeline** (Llama 3.1).
 * **🆔 Anon Aadhaar Researcher:** Architecting secure authentication modules via the **Anon Aadhaar SDK**.
-* [cite_start]**🤖 Obstacle-Avoiding Robot:** Programmed an autonomous robot with **Arduino UNO** and ultrasonic sensors[cite: 22, 23].
-* [cite_start]**🧠 Digit Recognition:** Trained a neural network for MNIST classification using **TensorFlow**[cite: 24, 25, 26].
-* [cite_start]**🎮 Jumble Word Game:** Built a **Flutter** puzzle game with timer challenges and local storage[cite: 20, 21].
+* **🤖 Obstacle-Avoiding Robot:** Programmed an autonomous robot with **Arduino UNO** and ultrasonic sensors.
+* **🧠 Digit Recognition:** Trained a neural network for MNIST classification using **TensorFlow**.
+* **🎮 Jumble Word Game:** Built a **Flutter** puzzle game with timer challenges and local storage.
 
 ---
 
@@ -43,10 +43,10 @@ Creative and hardworking **Computer Science & Engineering student at MITE** (CGP
 ---
 
 ### 🏆 Recognitions & Certifications
-* [cite_start]**Council Member:** Institution’s Innovation Council, co-organizing **SIH 2025**[cite: 35].
-* [cite_start]**Finalist:** Hack & Seek (MITE) coding challenge[cite: 31].
-* [cite_start]**Basketball:** Inter-Department Basketball Winner 🏀[cite: 36].
-* [cite_start]**Certified In:** SQL (Geekster), RPA (UiPath), and C/R/Statistics (Infosys)[cite: 38, 39, 41].
+* **Council Member:** Institution’s Innovation Council, co-organizing **SIH 2025**.
+* **Finalist:** Hack & Seek (MITE) coding challenge.
+* **Basketball:** Inter-Department Basketball Winner 🏀.
+* **Certified In:** SQL (Geekster), RPA (UiPath), and C/R/Statistics (Infosys).
 
 ---
 
