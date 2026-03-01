@@ -17,11 +17,21 @@
   <img src="https://img.shields.io/badge/Focus-Privacy_Preserving_Tech-5EADFF?style=for-the-badge&logo=shield" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-programmerr&repo=shubham-programmerr&theme=tokyonight&show_owner=true" alt="Identity Verified" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Academic_Load-8.02_CGPA-success?style=flat-square&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Neural_Network_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
+  <img src="https://img.shields.io/badge/ZK_Proof_Generation-Active-5EADFF?style=flat-square&logo=ethereum" />
+</p>
+
 ---
 
 ### 🛡️ Core Intelligence
-* [cite_start]**Academic Profile**: 6th-semester Computer Science & Engineering student at MITE[cite: 9].
-* [cite_start]**Performance**: Maintaining a strong academic standing with an **8.02 CGPA**[cite: 10].
+* [cite_start]**Academic Profile**: 6th-semester Computer Science & Engineering student at MITE[cite: 9, 10].
+* [cite_start]**Performance**: Maintaining a strong academic standing with an **8.02 CGPA**.
 * **Specialization**: Bridging **Zero-Knowledge Proofs** and **Machine Learning** to develop verifiable AI agents.
 * [cite_start]**Philosophy**: Dedicated to turning complex ideas into clean, logical, and innovative code[cite: 5, 6].
 
@@ -49,17 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="97%" />
-</p>
-
 ---
 
 ### 🏆 Milestones
 * [cite_start]**Council Member**: Active member of the **Institution’s Innovation Council**, co-organizing SIH 2025[cite: 35].
 * [cite_start]**Finalist**: Successfully cleared tech quiz and coding challenges for **Hack & Seek** at MITE[cite: 31].
 * [cite_start]**Basketball**: Won first prize in the **Inter-Department Basketball** tournament[cite: 36].
-* [cite_start]**Certified**: Holds certifications in **SQL** (Geekster), **RPA Developer Foundation** (UiPath), and **C/R/Statistics** (Infosys)[cite: 38, 39, 41].
+* [cite_start]**Certified**: Holds certifications in **SQL** (Geekster) [cite: 38][cite_start], **RPA Developer Foundation** (UiPath) [cite: 39][cite_start], and **C/R/Statistics** (Infosys)[cite: 41].
 
 ---
 
