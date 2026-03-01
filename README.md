@@ -10,14 +10,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=LAB%20VISITORS&color=5EADFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building_Verifiable_AI-blueviolet?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Focus-Privacy_Preserving_Tech-5EADFF?style=for-the-badge&logo=shield" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neural_Network_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
-  <img src="https://img.shields.io/badge/ZK_Proof_Generation-Active-5EADFF?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/System_Integrity-Verified-success?style=flat-square&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/Current_Runtime-6th_Sem_CSE-5EADFF?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Active_Module-ZK_ML_Privacy-blueviolet?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/System_Location-MITE_Moodabidri-success?style=for-the-badge&logo=googlemaps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Neural_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
+  <img src="https://img.shields.io/badge/Cryptography-Active-5EADFF?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Integrity-Verified-success?style=flat-square&logo=checkmarx" />
 </p>
 
 ---
@@ -40,7 +44,7 @@
 * **🚀 FloatChat (AI-Powered Data Analysis)**: Led the development of an AI chat application for the Smart India Hackathon to analyze oceanographic data using a RAG pipeline (Llama 3.1) and Streamlit.
 * **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the Anon Aadhaar SDK.
 * **🤖 Obstacle-Avoiding Robot**: Constructed and programmed an autonomous robot using an Arduino UNO and ultrasonic sensors.
-* **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for MNIST classification using TensorFlow and Keras.
+* **🧠 Digit Recognition Model**: Trained a high-accuracy neural network for handwritten digit classification (MNIST) using TensorFlow and Keras.
 * **🎮 Jumble Word Game**: Built a Flutter puzzle game with timer-based challenges using Stateful Widgets and Shared Preferences.
 
 ---
@@ -68,7 +72,7 @@
 
 ### 🤝 Node Connectivity
 <p align="center">
-<a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Direct_Link-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dadhichshubham32@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/shubham-dadhich-519401311"><img src="https://img.shields.io/badge/Network_Node-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
