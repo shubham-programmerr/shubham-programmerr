@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/Active_Project-AAVL-blueviolet?style=for-the-badge&logo=target" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Neural_Network_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
-  <img src="https://img.shields.io/badge/Cryptography-Active-5EADFF?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/System_Integrity-Verified-success?style=flat-square&logo=checkmarx" />
-</p>
-
 ---
 
 ### 🛡️ Core Intelligence
