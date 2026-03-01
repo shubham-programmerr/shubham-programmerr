@@ -73,7 +73,6 @@
 </p>
 
 ---
-
 ### 🏆 Milestones
 * **Institution’s Innovation Council**: Student council member, co-organizing the college-level Smart India Hackathon.
 * **Hack & Seek Finalist**: Successfully cleared tech quiz and coding challenges at MITE.
