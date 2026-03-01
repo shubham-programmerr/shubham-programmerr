@@ -32,12 +32,14 @@ I am currently bridging my work in **Zero-Knowledge Proofs** with **Machine Lear
 ---
 
 ### 📊 GitHub Power-Ups
-![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight)
-![Shubham's Stats](https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🤝 Let's Collaborate!
-📫 **Email:** dadhichshubham32@gmail.com
+📫 **Email:** [dadhichshubham32@gmail.com](mailto:dadhichshubham32@gmail.com)
 🔗 **LinkedIn:** [shubham-dadhich](https://linkedin.com/in/shubham-dadhich-519401311)
 🏀 **Off-duty:** Inter-Department Basketball Winner 🏆
