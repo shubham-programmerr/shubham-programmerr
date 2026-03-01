@@ -10,18 +10,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=LAB%20VISITORS&color=5EADFF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Current_Runtime-6th_Sem_CSE-5EADFF?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/Active_Module-ZK_ML_Privacy-blueviolet?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/System_Location-MITE_Moodabidri-success?style=for-the-badge&logo=googlemaps" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neural_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
+  <img src="https://img.shields.io/badge/Neural_Network_Sync-95%25-blueviolet?style=flat-square&logo=brain" />
   <img src="https://img.shields.io/badge/Cryptography-Active-5EADFF?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Integrity-Verified-success?style=flat-square&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/System_Integrity-Verified-success?style=flat-square&logo=checkmarx" />
 </p>
 
 ---
@@ -41,28 +37,28 @@
 ---
 
 ### 🛰️ Project Archives
----
+
 #### 🚀 FloatChat | Lead Developer & Architect
 * **Concept**: An intelligent data interrogation system designed for complex oceanographic datasets.
-* **Architecture**: Built using a **Retrieval-Augmented Generation (RAG)** pipeline leveraging **LangChain** and **Llama 3.1** to provide precise, context-aware answers.
-* **Interface**: Implemented a responsive, user-friendly dashboard using **Streamlit** for real-time data visualization and chat.
+* **Architecture**: Built using a Retrieval-Augmented Generation (RAG) pipeline leveraging LangChain and Llama 3.1 to provide precise, context-aware answers.
+* **Interface**: Implemented a responsive dashboard using Streamlit for real-time data visualization and chat.
 
 #### 🆔 Anon Aadhaar Researcher | Privacy & ZK-Proofs
 * **Focus**: Integrating privacy-preserving authentication into decentralized applications.
-* **Tech Stack**: Leveraging the **Anon Aadhaar SDK** to implement Zero-Knowledge (ZK) circuits for identity verification.
-* **Impact**: Enabling users to prove their identity/citizenship without revealing sensitive personal details, bridging the gap between Web2 identity and Web3 privacy.
+* **Tech Stack**: Leveraging the Anon Aadhaar SDK to implement Zero-Knowledge (ZK) circuits for identity verification.
+* **Impact**: Enabling users to prove their identity without revealing sensitive personal details, bridging the gap between Web2 identity and Web3 privacy.
 
 #### 🤖 Autonomous Obstacle-Avoiding System | Robotics
-* **Hardware**: Engineered using **Arduino UNO**, HC-SR04 ultrasonic sensors, and an L298N motor driver.
+* **Hardware**: Engineered using Arduino UNO, ultrasonic sensors, and an L298N motor driver.
 * **Logic**: Developed a real-time spatial awareness algorithm that calculates distances to objects and executes navigation maneuvers to prevent collisions.
 
 #### 🧠 Neural Digit Classifier | Machine Learning
-* **Model**: Designed a Convolutional Neural Network (CNN) architecture optimized for the **MNIST** dataset.
-* **Performance**: Utilized **TensorFlow** and **Keras** to achieve high-accuracy recognition of handwritten digits through optimized training epochs and dropout layers.
+* **Model**: Designed a Convolutional Neural Network (CNN) architecture optimized for the MNIST dataset.
+* **Performance**: Utilized TensorFlow and Keras to achieve high-accuracy recognition of handwritten digits.
 
 #### 🎮 Jumble Word Engine | Mobile Development
-* **Framework**: Built with **Flutter** for a seamless cross-platform experience.
-* **Features**: Developed a dynamic game loop with timer-based challenges, score persistence using **Shared Preferences**, and a state-managed UI.
+* **Framework**: Built with Flutter for a seamless cross-platform experience.
+* **Features**: Developed a dynamic game loop with timer-based challenges and score persistence using Shared Preferences.
 
 ---
 
@@ -73,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&hide_dates=true" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,7 +79,7 @@
 * **Hack & Seek Finalist**: Successfully cleared tech quiz and coding challenges at MITE.
 * **SAP HackFest Participant**: Presented renewable energy ideas to a professional judging panel.
 * **Inter-Department Basketball**: Won first prize as part of the college team.
-* **Certifications**: Certified in SQL (Geekster), RPA (UiPath), and C/R/Statistics (Infosys SpringBoard).
+* **Certifications**: Certified in SQL, RPA (UiPath), and C/R/Statistics.
 
 ---
 
