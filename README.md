@@ -2,7 +2,7 @@
 
 ### "From coder to programmer, and programmer to developer."
 
-I am a **Computer Science & Engineering student at MITE** (6th Sem) with an **8.02 CGPA**, building at the intersection of **Privacy-Preserving Tech** and **Artificial Intelligence**. I specialize in creating software that is clean, logical, and innovative.
+[cite_start]I am a **Computer Science & Engineering student at MITE** (6th Sem) with an **8.02 CGPA**[cite: 9, 10], building at the intersection of **Privacy-Preserving Tech** and **Artificial Intelligence**. [cite_start]I specialize in creating software that is clean, logical, and innovative[cite: 6].
 
 ---
 
@@ -10,19 +10,19 @@ I am a **Computer Science & Engineering student at MITE** (6th Sem) with an **8.
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & Machine Learning** | TensorFlow, Keras, LangChain, RAG Pipelines, YOLO |
+| **AI & Machine Learning** | [cite_start]TensorFlow, Keras, LangChain, RAG Pipelines, YOLO [cite: 13, 18] |
 | **Blockchain & ZK** | Anon Aadhaar SDK, Circom, SnarkJS, Rapidsnark |
-| **Languages** | Python, C++, JavaScript, Rust, Solidity, Dart, R, SQL |
-| **Frameworks** | Flutter, Streamlit, Firebase |
+| **Languages** | [cite_start]Python, C++, JavaScript, Rust, Solidity, Dart, R, SQL [cite: 12] |
+| **Frameworks** | [cite_start]Flutter, Streamlit, Firebase [cite: 13, 15, 16] |
 
 ---
 
 ### 🏆 Milestone Highlights
 
-* **Smart India Hackathon 2025 Leader:** Led the development of **FloatChat**, a RAG-based AI tool for oceanographic data analysis using Llama 3.1.
+* [cite_start]**Smart India Hackathon 2025 Leader:** Led the development of **FloatChat**, a RAG-based AI tool for oceanographic data analysis using Llama 3.1[cite: 28, 30].
 * **Privacy Researcher:** Currently integrating the **Anon Aadhaar SDK** to build secure, anonymous authentication modules.
-* **Robotics Enthusiast:** Engineered an autonomous obstacle-avoiding robot using Arduino UNO and ultrasonic sensors.
-* **Student Leader:** Serving as a council member for the **Institution’s Innovation Council**.
+* [cite_start]**Robotics Enthusiast:** Engineered an autonomous obstacle-avoiding robot using Arduino UNO and ultrasonic sensors[cite: 22, 23].
+* [cite_start]**Student Leader:** Serving as a council member for the **Institution’s Innovation Council**[cite: 35].
 
 ---
 
@@ -32,14 +32,13 @@ I am currently bridging my work in **Zero-Knowledge Proofs** with **Machine Lear
 ---
 
 ### 📊 GitHub Power-Ups
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🤝 Let's Collaborate!
-📫 **Email:** [dadhichshubham32@gmail.com](mailto:dadhichshubham32@gmail.com)
-🔗 **LinkedIn:** [shubham-dadhich](https://linkedin.com/in/shubham-dadhich-519401311)
-🏀 **Off-duty:** Inter-Department Basketball Winner 🏆
+[cite_start]📫 **Email:** [dadhichshubham32@gmail.com](mailto:dadhichshubham32@gmail.com) [cite: 2]
+[cite_start]🔗 **LinkedIn:** [shubham-dadhich](https://linkedin.com/in/shubham-dadhich-519401311) [cite: 2]
+[cite_start]🏀 **Off-duty:** Inter-Department Basketball Winner 🏆 [cite: 36]
