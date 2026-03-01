@@ -1,16 +1,19 @@
-# <p align="center">⚡ Shubham Dadhich: System Architect ⚡</p>
+# <p align="center">🚀 Mission Control</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=200&section=header&text=DEVELOPER%20&%20ZK-Researcher&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=5EADFF&center=true&vCenter=true&width=600&lines=SHUBHAM+DADHICH;AI+%26+ZK-RESEARCHER;BLOCKCHAIN+DEVELOPER;SYSTEM+ARCHITECT" alt="Animated Name" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Building+Verifiable+AI+Agents;Architecting+Anon+Aadhaar+Modules;SIH+2025+Lead+Engineer;6th+Sem+CSE+%40+MITE" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=120&section=header&text=Welcome%20to%20my%20Lab&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
 
 ### 🛡️ Professional Summary
-Creative and hardworking **Computer Science & Engineering student at MITE** (CGPA: 8.02). Passionate about turning complex ideas into clean, logical code. Currently bridging **Zero-Knowledge Proofs** with **Machine Learning** to develop verifiable AI agents.
+[cite_start]Creative and hardworking **Computer Science & Engineering student at MITE** (CGPA: 8.02)[cite: 9, 10]. [cite_start]Passionate about turning complex ideas into clean, logical code[cite: 5, 6]. Currently bridging **Zero-Knowledge Proofs** with **Machine Learning** to develop verifiable AI agents.
 
 ---
 
@@ -22,11 +25,11 @@ Creative and hardworking **Computer Science & Engineering student at MITE** (CGP
 ---
 
 ### 🛰️ Mission Archive (Key Projects)
-* **🚀 FloatChat (SIH 2025 Leader):** AI chat app for oceanographic data using a **RAG pipeline** (Llama 3.1).
+* [cite_start]**🚀 FloatChat (SIH 2025 Leader):** AI chat app for oceanographic data using a **RAG pipeline** (Llama 3.1)[cite: 27, 28, 30].
 * **🆔 Anon Aadhaar Researcher:** Architecting secure authentication modules via the **Anon Aadhaar SDK**.
-* **🤖 Obstacle-Avoiding Robot:** Programmed an autonomous robot with **Arduino UNO** and ultrasonic sensors.
-* **🧠 Digit Recognition:** Trained a neural network for MNIST classification using **TensorFlow**.
-* **🎮 Jumble Word Game:** Built a **Flutter** puzzle game with timer challenges and local storage.
+* [cite_start]**🤖 Obstacle-Avoiding Robot:** Programmed an autonomous robot with **Arduino UNO** and ultrasonic sensors[cite: 22, 23].
+* [cite_start]**🧠 Digit Recognition:** Trained a neural network for MNIST classification using **TensorFlow**[cite: 24, 25, 26].
+* [cite_start]**🎮 Jumble Word Game:** Built a **Flutter** puzzle game with timer challenges and local storage[cite: 20, 21].
 
 ---
 
@@ -43,10 +46,10 @@ Creative and hardworking **Computer Science & Engineering student at MITE** (CGP
 ---
 
 ### 🏆 Recognitions & Certifications
-* **Council Member:** Institution’s Innovation Council, co-organizing **SIH 2025**.
-* **Finalist:** Hack & Seek (MITE) coding challenge.
-* **Basketball:** Inter-Department Basketball Winner 🏀.
-* **Certified In:** SQL (Geekster), RPA (UiPath), and C/R/Statistics (Infosys).
+* [cite_start]**Council Member:** Institution’s Innovation Council, co-organizing **SIH 2025**[cite: 35].
+* [cite_start]**Finalist:** Hack & Seek (MITE) coding challenge[cite: 31].
+* [cite_start]**Basketball:** Inter-Department Basketball Winner 🏀[cite: 36].
+* [cite_start]**Certified In:** SQL (Geekster), RPA (UiPath), and C/R/Statistics (Infosys)[cite: 38, 39, 41].
 
 ---
 
