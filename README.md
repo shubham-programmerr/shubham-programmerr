@@ -66,22 +66,21 @@
 
 ---
 
+---
+
 ### 📊 System Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="480" />
+</p>
 
 ---
 ### 🏆 Milestones
