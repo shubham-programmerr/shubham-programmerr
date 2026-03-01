@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=LAB%20VISITORS&color=5EADFF&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=150&section=header&text=SYSTEM%20INITIALIZED&fontSize=40&animation=twinkling" />
 </p>
 
@@ -16,10 +20,10 @@
 ---
 
 ### 🛡️ Core Intelligence
-* [cite_start]**Academic Profile:** Currently a 6th-semester Computer Science & Engineering student at MITE[cite: 9].
-* [cite_start]**Performance:** Maintaining a strong academic standing with an 8.02 CGPA[cite: 10].
-* [cite_start]**Specialization:** Bridging Zero-Knowledge Proofs and Machine Learning to develop verifiable AI agents[cite: 18].
-* [cite_start]**Philosophy:** Dedicated to turning complex ideas into clean, logical, and innovative code[cite: 6].
+* [cite_start]**Academic Profile**: 6th-semester Computer Science & Engineering student at MITE[cite: 9].
+* [cite_start]**Performance**: Maintaining a strong academic standing with an **8.02 CGPA**[cite: 10].
+* **Specialization**: Bridging **Zero-Knowledge Proofs** and **Machine Learning** to develop verifiable AI agents.
+* [cite_start]**Philosophy**: Dedicated to turning complex ideas into clean, logical, and innovative code[cite: 5, 6].
 
 ---
 
@@ -31,11 +35,11 @@
 ---
 
 ### 🛰️ Project Archives
-* [cite_start]**🚀 FloatChat (SIH 2025 Leader):** Developed an AI chat application for oceanographic data using a RAG pipeline (Llama 3.1) and Streamlit[cite: 27, 28, 30].
-* **🆔 Anon Aadhaar Researcher:** Architecting secure, anonymous authentication modules via the Anon Aadhaar SDK.
-* [cite_start]**🤖 Obstacle-Avoiding Robot:** Engineered an autonomous robot using Arduino UNO and ultrasonic sensors[cite: 22, 23].
-* [cite_start]**🧠 Digit Recognition:** Trained a high-accuracy neural network for MNIST classification using TensorFlow and Keras[cite: 24, 25, 26].
-* [cite_start]**🎮 Jumble Word Game:** Built a Flutter-based puzzle game with timer challenges and Shared Preferences[cite: 20, 21].
+* [cite_start]**🚀 FloatChat (SIH 2025 Leader)**: Developed an AI chat application for oceanographic data using a **RAG pipeline** (Llama 3.1) and Streamlit[cite: 27, 28, 30].
+* **🆔 Anon Aadhaar Researcher**: Architecting secure, anonymous authentication modules via the **Anon Aadhaar SDK**.
+* [cite_start]**🤖 Obstacle-Avoiding Robot**: Engineered an autonomous robot using **Arduino UNO** and ultrasonic sensors[cite: 22, 23].
+* [cite_start]**🧠 Digit Recognition**: Trained a high-accuracy neural network for MNIST classification using **TensorFlow** and **Keras**[cite: 24, 25, 26].
+* [cite_start]**🎮 Jumble Word Game**: Built a **Flutter** puzzle game with timer challenges and local storage[cite: 20, 21].
 
 ---
 
@@ -52,10 +56,10 @@
 ---
 
 ### 🏆 Milestones
-* [cite_start]**Council Member:** Active member of the Institution’s Innovation Council, co-organizing college-level SIH 2025[cite: 35].
-* [cite_start]**Finalist:** Successfully cleared the tech quiz and coding challenges for Hack & Seek at MITE[cite: 31].
-* [cite_start]**Basketball:** Won first prize in the Inter-Department Basketball tournament[cite: 36].
-* [cite_start]**Certified:** Holds certifications in SQL (Geekster), RPA Developer Foundation (UiPath), and C/R/Statistics (Infosys SpringBoard)[cite: 38, 39, 41].
+* [cite_start]**Council Member**: Active member of the **Institution’s Innovation Council**, co-organizing SIH 2025[cite: 35].
+* [cite_start]**Finalist**: Successfully cleared tech quiz and coding challenges for **Hack & Seek** at MITE[cite: 31].
+* [cite_start]**Basketball**: Won first prize in the **Inter-Department Basketball** tournament[cite: 36].
+* [cite_start]**Certified**: Holds certifications in **SQL** (Geekster), **RPA Developer Foundation** (UiPath), and **C/R/Statistics** (Infosys)[cite: 38, 39, 41].
 
 ---
 
