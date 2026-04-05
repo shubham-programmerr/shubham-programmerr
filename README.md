@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=LAB%20VISITORS&color=5EADFF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Current_Runtime-6th_Sem_CSE-5EADFF?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Active_Project-AAVL-blueviolet?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Active_Project-Chatter_AI-blueviolet?style=for-the-badge&logo=target" />
 </p>
 
 ---
