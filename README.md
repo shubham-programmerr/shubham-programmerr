@@ -202,6 +202,18 @@ Currently exploring the intersection of:
 
 ---
 
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyo-night&area=true&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=a78bfa" width="100%" alt="Activity Graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="100%" alt="Profile Details" />
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
