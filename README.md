@@ -1,41 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=SHUBHAM%20DADHICH&fontSize=48&fontColor=5EADFF&animation=twinkling&fontAlignY=38&desc=AI%20Researcher%20%7C%20ZK-Proof%20Engineer%20%7C%20Blockchain%20Architect&descAlignY=58&descSize=16&descColor=a0aec0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=200&section=header&text=Shubham%20Dadhich&fontSize=52&fontColor=5EADFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20ZK-Proof%20Explorer&descAlignY=58&descSize=16&descColor=a0aec0" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=5EADFF&center=true&vCenter=true&width=700&lines=Building+Verifiable+AI+Agents+with+ZK-Proofs;RAG+Pipelines+%E2%86%92+Oceanographic+Intelligence;Privacy-Preserving+Identity+on+Web3;CSE+%40+MITE+%E2%80%94+6th+Semester" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=5EADFF&center=true&vCenter=true&width=750&lines=Building+RAG+Pipelines+for+Scientific+Data;ZK-Proof+%2B+ML+%3D+Verifiable+AI+Agents;Privacy-Preserving+Identity+on+Web3;CSE+%40+MITE+%E2%80%94+Open+to+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=PROFILE+VIEWS&color=5EADFF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-ZK+%2B+AI-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open+to+Collaborate-00d26a?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://shubhamd.me">
+    <img src="https://img.shields.io/badge/Portfolio-shubhamd.me-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00d26a?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-> *"Bridging the gap between Zero-Knowledge Proofs and Machine Learning — making AI not just intelligent, but verifiably trustworthy."*
+> *"A software engineer who loves coding, solving problems, and creating impactful digital experiences — one clean line of code at a time."*
 
-I'm a **Computer Science & Engineering student** at Mangalore Institute of Technology & Engineering (MITE), currently in my 6th semester. My work sits at the intersection of **cryptographic privacy**, **autonomous AI agents**, and **decentralized systems**.
+I'm a **Computer Science & Engineering student** at Mangalore Institute of Technology & Engineering (MITE), coding since 2021. I specialise in **data analytics**, **AI/ML pipelines**, and **privacy-preserving systems** using ZK-Proofs.
 
-- 🔬 Researching **ZK-Proof integration** into ML pipelines for verifiable inference
-- 🤖 Building **RAG-based AI systems** for specialized scientific data domains
-- 🔐 Exploring **privacy-preserving identity** (Anon Aadhaar) for Web3 applications
-- 🌊 Lead developer of **FloatChat** — an intelligent oceanographic data interrogation system
+Beyond code, I'm into football ⚽, chess ♟️, music 🎵, and collecting vintage items — the best engineers stay curious about everything.
+
+| | | | |
+|---|---|---|---|
+| 📍 **Location** | Mangalore, India | 🎯 **Primary Interest** | Data Analytics & AI |
+| 🚀 **Active Project** | ChatterAI | 📅 **Coding Since** | 2021 |
+| 🏗️ **Projects Built** | 4+ | 📜 **Certificates** | 8+ |
+
+**Quick Facts:**
+- 🔬 Exploring **ZK-Proof + ML** for verifiable AI inference
+- 📊 Passionate about **extracting insights from complex data** using RAG pipelines
+- 🧠 Strong foundation in **OOP, DSA, and algorithmic thinking**
+- 🤝 Active in **hackathons** — Smart India Hackathon, SAP HackFest, Hack & Seek, and more
+- 🌐 Personal site → **[shubhamd.me](https://shubhamd.me)** | 📄 **[Resume](https://shubhamd.me/pictures/Shubham_Dadhich_Resume1.pdf)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,solidity,cpp,ts,flutter&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,firebase,gcp,mysql&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,r,flutter&theme=dark&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,firebase,git,github,arduino,vscode&theme=dark&perline=6" />
 </p>
 
 <details>
@@ -44,13 +55,14 @@ I'm a **Computer Science & Engineering student** at Mangalore Institute of Techn
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Python, Rust, C++, TypeScript, Solidity, R |
-| **AI / ML** | TensorFlow, PyTorch, LangChain, Llama 3.1, Keras |
+| **Languages** | Python, C++, C, JavaScript, SQL, R |
+| **AI / ML** | TensorFlow, Keras, LangChain, RAG Pipelines, YOLO (Object Detection), NLP |
+| **Frameworks** | Flutter, Streamlit |
 | **Blockchain / ZK** | Solidity, Anon Aadhaar SDK, ZK Circuits |
-| **Mobile / Frontend** | Flutter, Streamlit |
-| **Cloud / DevOps** | GCP, Docker, Firebase |
-| **Data / Databases** | MySQL, Arduino, RAG Pipelines |
-| **Certifications** | SQL, RPA (UiPath), C, R, Statistics |
+| **Data & Analytics** | NumPy, Pandas, Data Science, Statistics |
+| **Backend & DB** | Firebase, SQL |
+| **Web** | HTML, CSS, JavaScript |
+| **DevOps & Tools** | Git, GitHub, Arduino, VS Code, RPA (UiPath) |
 
 </details>
 
@@ -58,62 +70,61 @@ I'm a **Computer Science & Engineering student** at Mangalore Institute of Techn
 
 ## 🚀 Featured Projects
 
-### 🌊 FloatChat — AI-Powered Oceanographic Intelligence
-> *Lead Developer & Architect*
+### 💬 ChatterAI *(In Progress)*
+> *Real-time peer-to-peer chat with AI integration*
 
-An intelligent data interrogation system built for complex **oceanographic datasets**, enabling researchers to query scientific data conversationally.
+An AI-powered communication platform blending live P2P chat with intelligent features.
 
-- **Architecture**: RAG pipeline using **LangChain + Llama 3.1** for context-aware, domain-specific answers
-- **Interface**: Real-time dashboard built with **Streamlit** for data visualization and live chat
-- **Impact**: Reduces manual data parsing time by enabling natural-language queries over dense scientific datasets
-
----
-
-### 🔐 Anon Aadhaar ZK Integration — Privacy on Web3
-> *ZK-Proof Researcher*
-
-Bridging **Web2 identity systems** with **Web3 privacy** using Zero-Knowledge proofs.
-
-- **Stack**: Anon Aadhaar SDK, ZK Circuits, Solidity smart contracts
-- **Concept**: Users prove identity on-chain **without revealing any personal data** — pure cryptographic attestation
-- **Goal**: Production-ready privacy-preserving auth for dApps
+- **Stack**: Flutter, Firebase, AI integration layer
+- **Goal**: Seamless real-time messaging enhanced by in-chat AI capabilities
 
 ---
 
-### 🤖 Autonomous Obstacle-Avoiding Robot — Embedded Systems
-> *Hardware + Software Engineer*
+### 🌊 FloatChat — Firebase Floating Chat Widget
+> *[View Project →](https://shubhamd.me/project-3.html)*
 
-A real-time spatial awareness system built from scratch on embedded hardware.
+A floating chat widget enabling real-time communication with a clean, minimal UI.
+
+- **Stack**: Flutter, Firebase, push notifications
+- **Feature**: Persistent floating UI with real-time messaging and notification support
+- **Presented at**: Smart India Hackathon (National-level government challenge)
+
+---
+
+### 🤖 Autonomous Obstacle-Avoiding Robot
+> *[View Project →](https://shubhamd.me/project-1.html)*
+
+A fully autonomous robot that detects and navigates around obstacles in real time with no human input.
 
 - **Hardware**: Arduino UNO, ultrasonic sensors, L298N motor driver
-- **Algorithm**: Custom distance-calculation logic with dynamic navigation maneuvers
-- **Result**: Fully autonomous collision-avoidance with sub-100ms reaction time
+- **Software**: Custom C++ real-time spatial awareness algorithm
+- **Result**: Autonomous collision avoidance with dynamic navigation maneuvers
 
 ---
 
-### 🧠 Neural Digit Classifier — Deep Learning
-> *ML Engineer*
+### 🧠 Neural Digit Classifier
+> *[View Project →](https://shubhamd.me/project-4.html)*
 
-A CNN optimized for handwritten digit recognition on the MNIST benchmark.
+High-accuracy CNN trained on the MNIST dataset for handwritten digit recognition.
 
-- **Framework**: TensorFlow + Keras
-- **Architecture**: Custom CNN layers with dropout regularization for high-accuracy classification
-- **Outcome**: Near state-of-the-art accuracy on MNIST test set
-
----
-
-### 🎮 Jumble Word Engine — Cross-Platform Mobile Game
-> *Flutter Developer*
-
-A dynamic word puzzle game built for both Android and iOS.
-
-- **Framework**: Flutter (single codebase, dual platform)
-- **Features**: Timer-based challenge mode, score persistence via Shared Preferences
-- **UX**: Smooth animations, responsive layout across screen sizes
+- **Stack**: Python, TensorFlow, Keras
+- **Architecture**: CNN with dropout regularisation for robust generalisation
+- **Dataset**: MNIST — 60,000 training / 10,000 test samples
 
 ---
 
-## 📊 GitHub Activity
+### 🎮 Jumble Word Engine
+> *[View Project →](https://shubhamd.me/project-2.html)*
+
+An interactive word puzzle mobile app with smooth drag-and-drop mechanics.
+
+- **Framework**: Flutter (cross-platform: Android & iOS from single codebase)
+- **Features**: Drag-and-drop UX, timer-based challenges, score persistence via Shared Preferences
+- **UX**: Clean interface with smooth animations and game state tracking
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EADFF&icon_color=8A2BE2&text_color=a0aec0" height="165" />
@@ -121,7 +132,7 @@ A dynamic word puzzle game built for both Android and iOS.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0D1117&ring=5EADFF&fire=8A2BE2&currStreakLabel=5EADFF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0D1117&ring=5EADFF&fire=8A2BE2&currStreakLabel=5EADFF" width="55%" />
 </p>
 
 <p align="center">
@@ -130,21 +141,44 @@ A dynamic word puzzle game built for both Android and iOS.
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Hackathons & Events
 
-| 🏅 Achievement | Details |
-|---|---|
-| **Innovation Council** | Student member — co-organized college-level Smart India Hackathon |
-| **Hack & Seek Finalist** | Cleared tech quiz + coding rounds at MITE |
-| **SAP HackFest** | Presented renewable energy solutions to a professional jury |
-| **Basketball Champion** | 🏀 First prize, Inter-Department Basketball Tournament |
-| **Certifications** | SQL · RPA (UiPath) · C · R · Statistics |
+| 🗓️ Event | Details | Result |
+|---|---|---|
+| **Smart India Hackathon** | National-level govt innovation challenge · Project: FloatChat | Participant |
+| **SAP HackFest '24** | Enterprise software dev with SAP technologies | Participant |
+| **Hack & Seek** | Tech quiz + Coding + Web hunt at MITE | 🏅 Finalist — cleared Rounds 1 & 2 |
+| **Forge Quest** | Prompt engineering challenge by MITE CSE & CSI | Cleared Round 1 |
+| **Prompt Wars** | AI prompt engineering by C.O.R.E, CSI & Crypton Club | Cleared Round 1 |
+| **Java Backend Workshop** | Data-driven backends with Java · Organised by MITE | Attendee |
+| **Basketball Tournament** | Inter-Department competition | 🥇 First Prize |
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| C Programming | Infosys SpringBoard | 2023 |
+| HTML & CSS Bootcamp | Web Dev Bootcamp | 2023 |
+| JavaScript Bootcamp | Web Dev Bootcamp | 2023 |
+| Introduction to Artificial Intelligence | Infosys SpringBoard | 2024 |
+| Introduction to Data Science | Infosys SpringBoard | 2023 |
+| Introduction to NLP | Infosys SpringBoard | 2024 |
+| R Programming | Infosys SpringBoard | 2023 |
+| RPA Developer Foundation | UiPath Academy | 2024 |
+| SQL Basic to Advanced | Online Platform | 2024 |
+| Statistics for R Programming | Infosys SpringBoard | 2023 |
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
+  <a href="https://shubhamd.me">
+    <img src="https://img.shields.io/badge/Portfolio-shubhamd.me-5EADFF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:dadhichshubham32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -153,11 +187,13 @@ A dynamic word puzzle game built for both Android and iOS.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_to-Research_Collabs-5EADFF?style=for-the-badge&logo=researchgate&logoColor=white" />
+  <a href="https://shubhamd.me/pictures/Shubham_Dadhich_Resume1.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-00d26a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Always open to discussing ZK research, AI systems, or interesting problems worth solving.</i>
+  <i>Open to collaborations, internships, and exciting projects. Let's build something together.</i>
 </p>
 
 <p align="center">
