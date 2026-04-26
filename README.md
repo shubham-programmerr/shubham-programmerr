@@ -175,6 +175,8 @@ Currently exploring the intersection of:
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyo-night&area=true&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=a78bfa" width="100%" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -197,18 +199,6 @@ Currently exploring the intersection of:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Dadhich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-dadhich-519401311)
 
 *Open to research collaborations, internships, and interesting problems.*
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyo-night&area=true&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=a78bfa" width="100%" alt="Activity Graph" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="100%" alt="Profile Details" />
 
 </div>
 
