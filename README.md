@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Glitch / vortex banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:4c1d95,100:0f172a&height=220&section=header&text=SHUBHAM%20DADHICH&fontSize=54&fontColor=ffffff&animation=scaleIn&fontAlignY=40&stroke=7c3aed&strokeWidth=2&desc=AI%20%7C%20ZK%20Research%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=62&descSize=17&descColor=c4b5fd" />
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHUBHAM%20DADHICH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ZK%20Research%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<!-- Neon typing animation — faster, more dramatic -->
+<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&multiline=false&width=650&lines=ZK+%2B+AI+%3D+Verifiable+Intelligence+%F0%9F%94%90;Blockchain+Architect+%7C+Web3+Builder+%E2%9B%93;RAG+%26+LLM+Systems+Developer+%F0%9F%A7%A0;Currently+Shipping%3A+Chatter+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Verifiable+AI+Agents;Zero-Knowledge+Proof+Researcher;Blockchain+%26+Web3+Architect;RAG+%26+LLM+Systems+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -56,16 +56,26 @@ class Shubham:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,rust,solidity,cpp,ts,flutter&theme=dark&perline=6" />
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=fbbf24)
+![Rust](https://img.shields.io/badge/Rust-0f0c29?style=for-the-badge&logo=rust&logoColor=f97316)
+![Solidity](https://img.shields.io/badge/Solidity-0f0c29?style=for-the-badge&logo=solidity&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=ec4899)
+![Flutter](https://img.shields.io/badge/Flutter-0f0c29?style=for-the-badge&logo=flutter&logoColor=38bdf8)
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=fbbf24)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=f97316)
 ![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=22c55e)
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,gcp,firebase,mysql,arduino&theme=dark&perline=6" />
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=60a5fa)
+![GCP](https://img.shields.io/badge/GCP-0f0c29?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
+![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=f97316)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![Arduino](https://img.shields.io/badge/Arduino-0f0c29?style=for-the-badge&logo=arduino&logoColor=22c55e)
 
 </div>
 
@@ -81,13 +91,6 @@ class Shubham:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyo-night&area=true&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=a78bfa" width="100%" alt="Contribution Graph" />
-
-<!-- Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham-programmerr/shubham-programmerr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham-programmerr/shubham-programmerr/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/shubham-programmerr/shubham-programmerr/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
 
 </div>
 
@@ -117,5 +120,6 @@ class Shubham:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
+ 
