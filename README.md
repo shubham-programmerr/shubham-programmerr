@@ -1,141 +1,207 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EADFF,100:8A2BE2&height=150&section=header&text=SYSTEM%20INITIALIZED&fontSize=40&animation=twinkling" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=5EADFF&center=true&vCenter=true&width=700&lines=SHUBHAM+DADHICH+%2F%2F+DEVELOPER;AI+%26+ZK-RESEARCHER;BLOCKCHAIN+ARCHITECT;FLOAT+CHAT+DEVELOPER;CHATTERAI+%2F%2F+IN+PROGRESS" alt="Typing Animation" />
-  </a>
-</p>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Dadhich&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ZK%20Research%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham-programmerr&label=LAB%20VISITORS&color=5EADFF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current_Runtime-6th_Sem_CSE-5EADFF?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Active_Project-ChatterAI-blueviolet?style=for-the-badge&logo=target" />
-  <a href="https://shubhamd.me">
-    <img src="https://img.shields.io/badge/LAB_PORTAL-shubhamd.me-00d26a?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Verifiable+AI+Agents;Zero-Knowledge+Proof+Researcher;Blockchain+%26+Web3+Architect;RAG+%26+LLM+Systems+Developer" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🛡️ Core Intelligence
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=shubham-programmerr&label=Profile+Views&color=7c3aed&style=flat-square)
+![CSE](https://img.shields.io/badge/6th_Sem-CSE_@_MITE-7c3aed?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Building_FloatChat-22c55e?style=flat-square)
 
-* **Academic Profile**: Computer Science & Engineering student at Mangalore Institute of Technology & Engineering (MITE) — coding since 2021.
-* **Specialization**: Bridging Zero-Knowledge Proofs and Machine Learning to develop verifiable AI agents.
-* **Primary Research**: Data analytics, RAG pipelines, and privacy-preserving systems on Web3.
-* **Philosophy**: Dedicated to turning complex ideas into clean, logical, and innovative code.
-* **Outside the Lab**: Football ⚽ · Chess ♟️ · Music 🎵 · Vintage collecting — staying curious beyond the terminal.
+</div>
 
 ---
 
-### 🛠️ Integrated Stack
+## 👾 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,solidity,cpp,c,js,tensorflow,pytorch,ts,flutter,gcp,docker,firebase,arduino,mysql,r&theme=dark" />
-</p>
+```python
+class Shubham:
+    def __init__(self):
+        self.name       = "Shubham Dadhich"
+        self.university = "Mangalore Institute of Technology & Engineering"
+        self.degree     = "B.E. Computer Science & Engineering (6th Sem)"
+        self.focus      = ["Zero-Knowledge Proofs", "Verifiable AI", "Blockchain", "RAG Systems"]
+        self.philosophy = "Turn complex ideas into clean, logical, and innovative code."
 
-<details>
-<summary><b>[ EXPAND FULL STACK ]</b></summary>
-<br>
+    def current_work(self):
+        return "Building FloatChat — an intelligent oceanographic data interrogation system"
 
-| Module | Technologies |
-|---|---|
-| **Languages** | Python, C++, C, JavaScript, TypeScript, SQL, R, Solidity |
-| **AI / ML** | TensorFlow, Keras, PyTorch, LangChain, Llama 3.1, RAG Pipelines, YOLO, NLP |
-| **Frameworks** | Flutter, Streamlit |
-| **Blockchain / ZK** | Solidity, Anon Aadhaar SDK, ZK Circuits |
-| **Data & Analytics** | NumPy, Pandas, Statistics |
-| **Backend & DB** | Firebase, MySQL, SQL |
-| **Cloud & DevOps** | GCP, Docker |
-| **Tools** | Git, GitHub, Arduino, VS Code, RPA (UiPath) |
-
-</details>
+    def research_interest(self):
+        return "Bridging ZK-Proofs × Machine Learning → Verifiable AI Agents"
+```
 
 ---
 
-### 🛰️ Project Archives
+## 🔬 Research & Interests
 
-#### 💬 ChatterAI | Lead Developer *(Active)*
-* **Concept**: A real-time peer-to-peer chat system with AI integration woven into the communication layer.
-* **Stack**: Flutter, Firebase, AI integration pipeline.
-* **Status**: Actively in development — bridging real-time messaging with on-the-fly AI capabilities.
-
-#### 🌊 FloatChat (ProCode) | Lead Developer & Architect
-* **Concept**: An intelligent data interrogation system designed for complex oceanographic datasets.
-* **Architecture**: Built using a Retrieval-Augmented Generation (RAG) pipeline leveraging LangChain and Llama 3.1 to provide precise, context-aware answers.
-* **Interface**: Implemented a responsive dashboard using Streamlit for real-time data visualization and chat.
-* **Milestone**: Presented at **Smart India Hackathon** (national-level government innovation challenge).
-
-#### 🆔 Anon Aadhaar Researcher | Privacy & ZK-Proofs
-* **Focus**: Integrating privacy-preserving authentication into decentralized applications.
-* **Tech Stack**: Leveraging the Anon Aadhaar SDK to implement Zero-Knowledge (ZK) circuits for identity verification.
-* **Impact**: Enabling users to prove their identity without revealing sensitive personal details, bridging the gap between Web2 identity and Web3 privacy.
-
-#### 🤖 Autonomous Obstacle-Avoiding System | Robotics
-* **Hardware**: Engineered using Arduino UNO, ultrasonic sensors, and an L298N motor driver.
-* **Logic**: Developed a real-time spatial awareness algorithm that calculates distances to objects and executes navigation maneuvers to prevent collisions.
-
-#### 🧠 Neural Digit Classifier | Machine Learning
-* **Model**: Designed a Convolutional Neural Network (CNN) architecture optimized for the MNIST dataset.
-* **Performance**: Utilized TensorFlow and Keras to achieve high-accuracy recognition of handwritten digits.
-
-#### 🎮 Jumble Word Engine | Mobile Development
-* **Framework**: Built with Flutter for a seamless cross-platform experience.
-* **Features**: Dynamic game loop with timer-based challenges, drag-and-drop mechanics, and score persistence using Shared Preferences.
+| Area | Description |
+|------|-------------|
+| 🔐 **ZK-Proofs + ML** | Designing verifiable AI agents using zero-knowledge circuits |
+| 🌊 **RAG Systems** | LangChain + Llama 3.1 pipelines for domain-specific knowledge retrieval |
+| ⛓️ **Web3 Identity** | Privacy-preserving authentication bridging Web2 identity with Web3 |
+| 🤖 **Embedded AI** | Deploying intelligent logic on constrained hardware (Arduino, sensors) |
 
 ---
 
-### 📊 System Activity
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EADFF&icon_color=8A2BE2&text_color=a0aec0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5EADFF&text_color=a0aec0" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0D1117&ring=5EADFF&fire=8A2BE2&currStreakLabel=5EADFF" width="55%" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
-</p>
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=fbbf24)
+![Rust](https://img.shields.io/badge/Rust-0f0c29?style=for-the-badge&logo=rust&logoColor=f97316)
+![Solidity](https://img.shields.io/badge/Solidity-0f0c29?style=for-the-badge&logo=solidity&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=ec4899)
+![Flutter](https://img.shields.io/badge/Flutter-0f0c29?style=for-the-badge&logo=flutter&logoColor=38bdf8)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-programmerr&theme=tokyonight" width="100%" alt="Profile Details" />
-</p>
+**AI / ML**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=fbbf24)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=f97316)
+![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=22c55e)
 
-### 🏆 Milestones
+**Infrastructure**
 
-* **Smart India Hackathon**: Represented MITE at the national-level government innovation challenge with FloatChat.
-* **SAP HackFest '24**: Presented renewable energy & enterprise solutions to a professional judging panel.
-* **Hack & Seek Finalist**: Cleared tech quiz and coding rounds at MITE — reached the finals.
-* **Forge Quest**: Qualified Round 1 via prompt engineering at MITE's CSE & CSI event.
-* **Prompt Wars**: Cleared Round 1 in AI prompt engineering competition by C.O.R.E, CSI & Crypton Club.
-* **Institution's Innovation Council**: Student council member, co-organizing college-level Smart India Hackathon.
-* **Inter-Department Basketball**: Won first prize as part of the college team 🏀.
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=60a5fa)
+![GCP](https://img.shields.io/badge/GCP-0f0c29?style=for-the-badge&logo=googlecloud&logoColor=fbbf24)
+![Firebase](https://img.shields.io/badge/Firebase-0f0c29?style=for-the-badge&logo=firebase&logoColor=f97316)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![Arduino](https://img.shields.io/badge/Arduino-0f0c29?style=for-the-badge&logo=arduino&logoColor=22c55e)
+
+</div>
 
 ---
 
-### 🤝 Node Connectivity
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://shubhamd.me">
-    <img src="https://img.shields.io/badge/PORTFOLIO-shubhamd.me-5EADFF?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:dadhichshubham32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shubham-dadhich-519401311">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://shubhamd.me/pictures/Shubham_Dadhich_Resume1.pdf">
-    <img src="https://img.shields.io/badge/RESUME-Download-00d26a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=5EADFF&height=30&section=footer" />
-</p>
+### 🌊 FloatChat
+> *Lead Developer & Architect*
+
+An intelligent data interrogation system for complex **oceanographic datasets**.
+
+- 🧠 **RAG pipeline** using LangChain + Llama 3.1
+- 📊 **Streamlit** dashboard for real-time visualization
+- 🔍 Context-aware answers from domain-specific knowledge
+
+</td>
+<td width="50%" valign="top">
+
+### 🆔 Anon Aadhaar — ZK Identity
+> *Privacy & ZK-Proof Researcher*
+
+Privacy-preserving authentication for **decentralized apps**.
+
+- 🔐 Implements **ZK circuits** using the Anon Aadhaar SDK
+- 🌐 Bridges **Web2 identity ↔ Web3 privacy**
+- ✅ Prove identity without revealing personal data
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Obstacle-Avoiding Robot
+> *Robotics Engineer*
+
+Real-time spatial awareness system on embedded hardware.
+
+- ⚙️ Arduino UNO + ultrasonic sensors + L298N driver
+- 📡 Real-time distance calculation algorithm
+- 🧭 Autonomous navigation and collision avoidance
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Neural Digit Classifier
+> *ML Engineer*
+
+High-accuracy handwritten digit recognition system.
+
+- 🔢 Custom **CNN architecture** on MNIST dataset
+- ⚡ Built with **TensorFlow & Keras**
+- 🎯 Optimized for high recognition accuracy
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Jumble Word Engine
+> *Mobile Developer*
+
+Cross-platform word puzzle game with competitive mechanics.
+
+- 📱 Built with **Flutter** (iOS + Android)
+- ⏱️ Timer-based challenges with score persistence
+- 💾 Local storage via Shared Preferences
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 What's Next?
+> *Coming Soon*
+
+Currently exploring the intersection of:
+
+- 🔗 **ZK-SNARKs** for model inference verification
+- 🤖 **On-chain AI agents** with provable outputs
+- 📦 Decentralized RAG knowledge bases
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🏛️ **Institution's Innovation Council** — Co-organizing Smart India Hackathon at MITE
+- ⚡ **Hack & Seek Finalist** — Cleared tech quiz and coding challenges at MITE
+- ♻️ **SAP HackFest Participant** — Presented renewable energy solutions to a professional panel
+- 🏀 **Inter-Department Basketball** — First prize with the college team
+- 📜 **Certifications** — SQL · RPA (UiPath) · C · R · Statistics
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-dadhichshubham32@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadhichshubham32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham_Dadhich-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-dadhich-519401311)
+
+*Open to research collaborations, internships, and interesting problems.*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</div>
