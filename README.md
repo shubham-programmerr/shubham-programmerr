@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Dadhich&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ZK%20Research%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SHUBHAM%20DADHICH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ZK%20Research%20%7C%20Blockchain%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=shubham-programmerr&label=Profile+Views&color=7c3aed&style=flat-square)
 ![CSE](https://img.shields.io/badge/6th_Sem-CSE_@_MITE-7c3aed?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building_FloatChat-22c55e?style=flat-square)
+![Status](https://img.shields.io/badge/Active_Project-Chatter_AI-22c55e?style=flat-square)
 
 </div>
 
@@ -31,7 +31,7 @@ class Shubham:
         self.philosophy = "Turn complex ideas into clean, logical, and innovative code."
 
     def current_work(self):
-        return "Building FloatChat — an intelligent oceanographic data interrogation system"
+        return "Building Chatter AI — a next-gen conversational AI platform"
 
     def research_interest(self):
         return "Bridging ZK-Proofs × Machine Learning → Verifiable AI Agents"
@@ -78,91 +78,6 @@ class Shubham:
 ![Arduino](https://img.shields.io/badge/Arduino-0f0c29?style=for-the-badge&logo=arduino&logoColor=22c55e)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 FloatChat
-> *Lead Developer & Architect*
-
-An intelligent data interrogation system for complex **oceanographic datasets**.
-
-- 🧠 **RAG pipeline** using LangChain + Llama 3.1
-- 📊 **Streamlit** dashboard for real-time visualization
-- 🔍 Context-aware answers from domain-specific knowledge
-
-</td>
-<td width="50%" valign="top">
-
-### 🆔 Anon Aadhaar — ZK Identity
-> *Privacy & ZK-Proof Researcher*
-
-Privacy-preserving authentication for **decentralized apps**.
-
-- 🔐 Implements **ZK circuits** using the Anon Aadhaar SDK
-- 🌐 Bridges **Web2 identity ↔ Web3 privacy**
-- ✅ Prove identity without revealing personal data
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Autonomous Obstacle-Avoiding Robot
-> *Robotics Engineer*
-
-Real-time spatial awareness system on embedded hardware.
-
-- ⚙️ Arduino UNO + ultrasonic sensors + L298N driver
-- 📡 Real-time distance calculation algorithm
-- 🧭 Autonomous navigation and collision avoidance
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Neural Digit Classifier
-> *ML Engineer*
-
-High-accuracy handwritten digit recognition system.
-
-- 🔢 Custom **CNN architecture** on MNIST dataset
-- ⚡ Built with **TensorFlow & Keras**
-- 🎯 Optimized for high recognition accuracy
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Jumble Word Engine
-> *Mobile Developer*
-
-Cross-platform word puzzle game with competitive mechanics.
-
-- 📱 Built with **Flutter** (iOS + Android)
-- ⏱️ Timer-based challenges with score persistence
-- 💾 Local storage via Shared Preferences
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 What's Next?
-> *Coming Soon*
-
-Currently exploring the intersection of:
-
-- 🔗 **ZK-SNARKs** for model inference verification
-- 🤖 **On-chain AI agents** with provable outputs
-- 📦 Decentralized RAG knowledge bases
-
-</td>
-</tr>
-</table>
 
 ---
 
