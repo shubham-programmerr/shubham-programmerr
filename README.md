@@ -112,8 +112,3 @@ class Shubham:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
-
- <!-- Activity Overview at the bottom -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=dark&hide_border=true" alt="Activity Overview" />
-</p>
