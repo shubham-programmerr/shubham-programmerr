@@ -84,7 +84,7 @@ class Shubham:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&include_all_commits=true&count_private=true&border_radius=10" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubham-programmerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&border_radius=10" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-programmerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" height="165" />
 <img src="https://streak-stats.demolab.com?user=shubham-programmerr&theme=tokyonight&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-programmerr&theme=tokyo-night&area=true&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=a78bfa" width="100%" alt="Contribution Graph" />
